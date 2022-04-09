@@ -1,0 +1,5 @@
+name = input()
+age = int(input())
+city = input()
+'Добрый день %s. Ваш возвраст %d лет. Вы проживаете в городе %s'% (name, age, city)
+print('Добрый день %s. Ваш возвраст %d лет. Вы проживаете в городе %s'% (name, age, city))
